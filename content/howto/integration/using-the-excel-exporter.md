@@ -159,13 +159,13 @@ To retrieve the template and generate the document, follow these steps:
 
 2.  In your microflow, call the **XLSReport.GenerateExcelDoc** Java action (available from the module's **JavaActions** folder) to pass the required objects to the module.
 
-	![](attachments/18448732/java-action.png)
+	![](attachments/18448732/java-action.jpg)
 
 3.  In your microflow, download the resulting FileDocument object.
 
-Your microflow should look similar to this:
+Your microflow should look like this:
 
-![](attachments/18448732/18581902.png)
+![](attachments/18448732/microflow.jpg)
 
 ## 7 Read More
 
