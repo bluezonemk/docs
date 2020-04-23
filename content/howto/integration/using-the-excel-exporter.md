@@ -155,7 +155,7 @@ In this section, you will learn how to call the newly created Excel export templ
 
 To retrieve the template and generate the document, follow these steps:
 
-1. Create a microflow that either takes an inbound parameter of the object that needs to be exported, or retrieve that object into your microflow.
+1. Create a microflow that either takes an inbound parameter of the object that needs to be exported or retrieves that object into your microflow.
 
 2.  In your microflow, call the **XLSReport.GenerateExcelDoc** Java action (available from the module's **JavaActions** folder) to pass the required objects to the module.
 
